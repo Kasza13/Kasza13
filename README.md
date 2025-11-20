@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Snake animation](https://github.com/Kasza13/Kasza13/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Kasza13/Kasza13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
