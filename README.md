@@ -3,7 +3,7 @@
 
 ![Snake animation](https://github.com/Kasza13/Kasza13/blob/output/github-contribution-grid-snake.svg)
 
-## 💻 Technológiák, amelyekkel találkoztam / használtam: 
+## 💻 : 
 
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
