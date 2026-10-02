@@ -1,5 +1,5 @@
-– Miért utálják az informatikusok a természetet?
-– Túl sok benne a bug.
+Why do programmers hate nature? Because it has too many bugs.
+
 
 ![Snake animation](https://github.com/Kasza13/Kasza13/blob/output/github-contribution-grid-snake.svg)
 
